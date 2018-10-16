@@ -26,4 +26,5 @@ CALL code --install-extension esbenp.prettier-vscode
 CALL code --install-extension alefragnani.project-manager
 CALL code --install-extension SmukkeKim.theme-setimonokai
 CALL code --install-extension WakaTime.vscode-wakatime
-code --install-extension Shan.code-settings-sync
+CALL code --install-extension Shan.code-settings-sync
+CALL code --install-extension quicktype.quicktype
